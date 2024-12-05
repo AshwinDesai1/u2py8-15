@@ -1,0 +1,10 @@
+Timestamp,Email Address,Name,Contact number,Affiliation/Institute,Designation
+1/1/2025 9:1:1,jignesh@gmail.com,j.p.desai,9106652715,gujarat vidyapith,student
+1/1/2025 9:5:2,manish,desai@yahoo.com,m,p.desai,9328304561,smt b.k mehta it ,center
+palanpur,student
+1/2/2025 10:2:23,gopal,12@gmail.com,g,g.chopda,1234567890,s.s shah bca college,faculty
+1/3/2025 11:4:23,nitesh@gmail.com,n.L.desai,9087654321,IIT Bombay,student
+1/3/2025 11:23:23,ashwub@gmail.com,a,k.desai,9087654321,IIT Kanpur,faculty
+1/1/2025 12:1:1,praveen@gmail.com,pravin,prajapati,9106652717,gujarat 
+vidyapith,student
+1/1/2025 9:1:1,jignesh@gmail.com,j.p.desai,9106652715,gujarat vidyapith,student
